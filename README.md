@@ -155,7 +155,6 @@ No known bugs at this time.
 
 ## Authors
 Ayo Adekunle - [Github](https://github.com/ay4eva2006) / [Twitter](https://twitter.com/AdekunleAyo11)  
-Olamide Olanrewaju - [Github](https://github.com/) / [Twitter](https://twitter.com/)
 
 Second part of Airbnb:  Joann Vuong
 ## License
